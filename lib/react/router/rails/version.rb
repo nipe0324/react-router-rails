@@ -1,7 +1,7 @@
 module React
   module Router
     module Rails
-      VERSION = "0.13.3.2"
+      VERSION = "1.0.2.1"
     end
   end
 end
